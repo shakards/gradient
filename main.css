@@ -1,0 +1,267 @@
+body {
+    position: relative;
+    background-color: coral;
+}
+
+ul.nav-pills {
+    top: 20px;
+    position: relative;
+}
+
+div.col-sm-9 div {
+    width: auto;
+    height: auto;
+}
+
+/* #section1 {
+    background-color: #1E88E5;
+}
+
+#section2 { 
+    background-color: #673ab7;
+}
+
+#section3 { 
+    background-color: #ff9800;
+} */
+
+.bald p{
+    width:40%;
+}
+ 
+.bag {
+    margin-top: -5%;
+    width: 60%;
+}
+
+.hell{
+    margin-top: 20%;
+}
+
+.clock{
+    margin-top: -5%;
+} 
+
+.work{
+    /* height: 5px; */
+    width:90%;
+    border-style: solid;
+    text-align: center;
+}
+
+.work2{
+    margin-top: 153%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background-image: linear-gradient(#E6E6FA, #333333);
+}
+
+.master{
+    margin-top: -14%;
+    text-align: center;
+    width:90%;
+    border-style: solid;
+}
+
+.master2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background: linear-gradient(to right, #E6E6FA, #333333);
+}
+
+.back{
+    margin-top: -14%;
+    text-align: center;
+    width:90%;
+    border-style: solid;
+}
+
+.back2{
+    margin-left: 26%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background:linear-gradient( #722f37, #B87333, #FFB6C1)
+}
+
+.choice{
+    margin-left: 26%;
+}
+
+.doctor{
+    margin-left: 26%;
+    width:66%;
+    border-style: solid;
+}
+
+.doctor2{
+    margin-top: 1%;
+    margin-left: 26%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background:linear-gradient( to right, #722f37, #B87333, #FFB6C1)
+}
+
+.play{
+    margin-left: 0%;
+}
+
+.some{
+    width: 100%;
+    margin-left: 26%;
+}
+
+.front{
+    width:66%;
+    border-style: solid;
+}
+ 
+.front2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background:linear-gradient(45deg, #fffe5f, #000000 )
+}
+.angle {
+    width:45%;
+}
+
+.chair{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background:linear-gradient(90deg, #fffe5f, #000000 )
+}
+
+.chair2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background:linear-gradient(135deg, #fffe5f, #000000 )
+}
+
+.central{
+    width:66%;
+    border-style: solid;
+}
+
+.central2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background: linear-gradient(to right, rgba(255, 127, 127, 0), rgba(51, 51, 51, 1 ));
+
+}
+
+.central3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background: linear-gradient(to bottom, rgba(255, 127, 127, 0), rgba(51, 51, 51, 1 ));
+}
+
+.church{
+    width:66%;
+    border-style: solid;
+}
+
+.church2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background: linear-gradient(to bottom right, #E6E6FA 25%, #333333 75%);
+}
+
+.mosque{
+    width:70%;
+    border-style: solid;
+}
+
+.mosque2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background: repeating-linear-gradient(#A020F0, #40E0D0 10%, #FFFF00 20%);
+}
+
+.mosque3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 250px;
+    width:600px;
+    background: repeating-linear-gradient(5deg, #A020F0, #40E0D0 10%, #FFFF00 20%);
+}
+
+.cheque{
+    width:66%;
+    border-style: solid;
+}
+
+.cheque2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background: radial-gradient(#A020F0, #00FFFF, #00FF00);
+}
+
+.past{
+    width:66%;
+    border-style: solid;
+}
+
+.past2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 200px;
+    width:600px;
+    background: radial-gradient(#A020F0 30%, #00FFFF 70%, #00FF00 15%);
+}
+    
+
+
+ 
+ 
+
